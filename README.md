@@ -31,7 +31,7 @@ search "SRA" @ usegalaxy.org and look for one of the following tools:
 ### The MEME suite has a weberver @ https://meme-suite.org/meme/index.html  
 The MEME suite focuses on discovery, detection, and analysis of sequence motifs
 
-![Alt text](/image_bank/meme_suit.png?raw=true ".")
+![Alt text](/image_bank/meme_suite.png?raw=true ".")
 
 
 
