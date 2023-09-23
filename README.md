@@ -29,7 +29,8 @@ search "SRA" @ usegalaxy.org and look for one of the following tools:
 
 ##
 ### The MEME suite has a weberver @ https://meme-suite.org/meme/index.html  
-The MEME suite focuses on discovery, detection, and analysis of sequence motifs  
+**Discovery, detection, and analysis of sequence motifs**  
+
 i.e. Do you want to know the coordinate location of all occurences of "GTAAAG" in the reference genome? Use **FIMO** from the MEME suite. But be cognizant of the p-value cutoff.  
 i.e. Do you have a dataset of CHIP-seq sequences and want to discover a sequence motif (such as a protein binding site) within these sequences? Use one of the motif discovery or enrichment tools depending on your application.
 
