@@ -10,12 +10,9 @@ You'll need to register for an account
 ##
 ### Format reference genome to fix length
 Did you need to generate a custom reference genome? You can use this tool to reformat your custom reference genome such that each line contains 60 nt.
-
-There are several tools that can help.
-
-**FASTA Width formatter** on usegalaxy.org (recommended 60 nt width) From the FATSX-toolkit (http://hannonlab.cshl.edu/fastx_toolkit/)
-
-**Format FASTA to fixed length** @ https://junli.netlify.app/apps/format-fasta/
+\There are several tools that can help.
+\**FASTA Width formatter** on usegalaxy.org (recommended 60 nt width) From the FATSX-toolkit (http://hannonlab.cshl.edu/fastx_toolkit/)
+\**Format FASTA to fixed length** @ https://junli.netlify.app/apps/format-fasta/
 
 ##
 
