@@ -3,6 +3,7 @@
 ##
 /
 ![Alt text](/image_bank/usegalaxy.png?raw=true ".")
+/
 Galaxy webserver is @ usegalaxy.org
 You'll need to register for an account
 /
