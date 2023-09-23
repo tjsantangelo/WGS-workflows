@@ -17,7 +17,7 @@ There are several tools that can help. From the FATSX-toolkit (http://hannonlab.
 ##
 
 ### Need SRA data but can't code?
-search "SRA" @ usegalaxy.org and looke for one of the following tools:  
+search "SRA" @ usegalaxy.org and look for one of the following tools:  
 - **Download and Extract Reads in FASTQ** format from NCBI SRA
 - **Faster Download and Extract Reads in FASTQ** format from NCBI SRA
 - **Download and Extract Reads in BAM** format from NCBI SRA
